@@ -22,7 +22,7 @@
 ## Research
 My research is mainly about graph mining, including community detection and graph embedding. I am particularly interested in quantum-walk-based methods for graph mining.
 
-## Major Publications
+## Main Publications
 1. **Xin Wang**; Songlei Jian; Kai Lu; Xiaoping Wang. Unified weighted label propagation algorithm using connection factor. International Conference on Advanced Data Mining and Applications. Springer, Cham, 2016.
 2. **Xin Wang**; Jianglong Song; Kai Lu; Xiaoping Wang. Community detection in attributed networks based on heterogeneous vertex interactions. Applied Intelligence 47.4 (2017): 1270-1281.
 3. Kai Lu; **Xin Wang**; Xiaoping Wang. Dynamic Community Detection Algorithm Based on Automatic Parameter Adjustment. International Conference on Intelligent Data Engineering and Automated Learning. Springer, Cham, 2017.
