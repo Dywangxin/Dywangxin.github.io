@@ -1,11 +1,11 @@
 <table frame=void rules=none>
-  <tr>
-    <td>
+  <tr frame=void rules=none>
+    <td frame=void rules=none>
       <h1>Xin Wang (王辛)</h1>
       <p><b>dywangxin@foxmail.com</b></p>
       <p><b>I am a PhD student in the College of Computer, National University of Defense Technology (NUDT). I am currently a visiting student in School of Computing, National University of Singapore (NUS).</b></p>
     </td>
-    <td>
+    <td frame=void rules=none>
       <img src="/photo.jpg" width="100%">
     </td>
   </tr>
