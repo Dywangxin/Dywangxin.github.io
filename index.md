@@ -1,15 +1,15 @@
-# About me
+## About me
 I am a PhD student in the College of Computer, National University of Defense Technology (NUDT). I am currently a visiting student in School of Computing, National University of Singapore (NUS).
 
-# Research
+## Research
 My research is mainly about graph mining, including community detection and graph embedding. I am particularly interested in quantum-walk-based methods for graph mining.
 
-# Education
+## Education
 - 2018.03- College of Computer Science, National University of Defense Technology, PhD in Computer Science and Technology
 - 2015.09-2017.12 College of Computer Science, National University of Defense Technology, Msc in Computer Science and Technology
 - 2011.09-2015.07 School of Electronic Information and Electrical Engineering, Shanghai Jiao Tong University, Bsc in Computer Science
 
-# Major Publications
+## Major Publications
 1. Xin Wang; Songlei Jian; Kai Lu; Xiaoping Wang. Unified weighted label propagation algorithm using connection factor. International Conference on Advanced Data Mining and Applications. Springer, Cham, 2016.
 2. Xin Wang; Jianglong Song; Kai Lu; Xiaoping Wang. Community detection in attributed networks based on heterogeneous vertex interactions. Applied Intelligence 47.4 (2017): 1270-1281.
 3. Kai Lu; Xin Wang; Xiaoping Wang. Dynamic Community Detection Algorithm Based on Automatic Parameter Adjustment. International Conference on Intelligent Data Engineering and Automated Learning. Springer, Cham, 2017.
