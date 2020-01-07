@@ -1,4 +1,4 @@
-<table>
+<table frame=void>
   <tr>
     <td>
       <h1>Xin Wang (王辛)</h1>
