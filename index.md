@@ -1,7 +1,7 @@
 <div>
-<table border="0">
+<table border=none>
   <tr>
-    <td width="75%" bordert=none>
+    <td width="75%" border=none>
       <h1>Xin Wang (王辛)</h1>
       <p><b>dywangxin@foxmail.com</b></p>
       <p><b>I am a PhD student in the College of Computer, National University of Defense Technology (NUDT). I am currently a visiting student in School of Computing, National University of Singapore (NUS).</b></p>
