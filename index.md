@@ -1,5 +1,5 @@
 <div>
-<table border="0" frame=void>
+<table border="0" rules=none>
   <tr>
     <td width="75%">
       <h1>Xin Wang (王辛)</h1>
