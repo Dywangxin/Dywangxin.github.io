@@ -1,5 +1,5 @@
 <div>
-  <table border="0">
+<table border="0">
   <tr>
     <td width="75%">
       <h1>Xin Wang (王辛)</h1>
@@ -12,6 +12,8 @@
   </tr>
 </table>
 </div>
+
+
 ## Education
 - 2018.03- College of Computer Science, National University of Defense Technology, PhD in Computer Science and Technology
 - 2015.09-2017.12 College of Computer Science, National University of Defense Technology, Msc in Computer Science and Technology
