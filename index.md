@@ -2,7 +2,7 @@
 I am a PhD student in the College of Computer, National University of Defense Technology (NUDT). I am currently a visiting student in School of Computing, National University of Singapore (NUS).
 
 # Research
-My research is mainly about graph mining. Specifically, I am interested in community detection, graph embedding, and quantum-walk-based methods for graph mining.
+My research is mainly about graph mining, including community detection and graph embedding. I am particularly interested in quantum-walk-based methods for graph mining.
 
 # Education
 - 2018.03- College of Computer Science, National University of Defense Technology, PhD in Computer Science and Technology
