@@ -1,9 +1,9 @@
 <table border="0">
   <tr>
     <td width="75%">
-      <h1>Xin Wang</h1>
+      <h1>Xin Wang (王辛)</h1>
       <p><b>dywangxin@foxmail.com</b></p>
-      <p><b>College of Computer Science, National University of Defense Technology</b></p>
+      <p><b>I am a PhD student in the College of Computer, National University of Defense Technology (NUDT). I am currently a visiting student in School of Computing, National University of Singapore (NUS).</b></p>
     </td>
     <td width="25%">
       <img src="/photo.jpg" width="100%">      % 插入证件照代码
@@ -11,8 +11,6 @@
   </tr>
 </table>
 
-## About me
-I am a PhD student in the College of Computer, National University of Defense Technology (NUDT). I am currently a visiting student in School of Computing, National University of Singapore (NUS).
 
 ## Research
 My research is mainly about graph mining, including community detection and graph embedding. I am particularly interested in quantum-walk-based methods for graph mining.
