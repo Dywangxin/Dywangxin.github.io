@@ -31,4 +31,4 @@ My research is mainly about graph mining, including community detection and grap
 6. Long Yu; Wang Xin; Xu Xian; Hong Xuan Highly-descriptive chain of trust in trusted computing. Journal of Tsinghua University(Science and Technology), 2018, 58(4): 387-394.
 7. Jianglong Song, Wentao Zhao, Qiang Liu and Xin Wang. Hybrid feature selection for supporting lightweight intrusion detection systems. Journal of Physics: Conference Series. Vol. 887. No. 1. IOP Publishing, 2017.
 8. Kai Liu; Yi Zhang; Kai Lu; Xiaoping Wang; Xin Wang. Reinforcement Label Propagation Algorithm Based on History Record. International Conference on Neural Information Processing. Springer, Cham, 2017.
-9. Kai Liu; Yi Zhang; Kai Lu; Xiaoping Wang; Xin Wang. An Optimized Quantum Representation for Color Digital Images. International Journal of Theoretical Physics (2018): 1-11. 
+9. Kai Liu; Yi Zhang; Kai Lu; Xiaoping Wang; Xin Wang. An Optimized Quantum Representation for Color Digital Images. International Journal of Theoretical Physics (2018): 1-11.
