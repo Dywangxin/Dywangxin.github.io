@@ -16,8 +16,8 @@
 
 ## Education
 - 2018.03- College of Computer Science, National University of Defense Technology, PhD in Computer Science and Technology
-- 2015.09-2017.12 College of Computer Science, National University of Defense Technology, Msc in Computer Science and Technology
-- 2011.09-2015.07 School of Electronic Information and Electrical Engineering, Shanghai Jiao Tong University, Bsc in Computer Science
+- 2015.09-2017.12 College of Computer Science, National University of Defense Technology, MEng in Computer Science and Technology
+- 2011.09-2015.07 School of Electronic Information and Electrical Engineering, Shanghai Jiao Tong University, BEng in Computer Science
 
 ## Research
 My research is mainly about graph mining, including community detection and graph embedding. I am particularly interested in quantum-walk-based methods for graph mining.
